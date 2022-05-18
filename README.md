@@ -1,4 +1,2 @@
-# PORTFOLIO - TADEESHA
-Official portfolio of my future works.
-
-check it using [This link]ttps://google.com)
+# Portfolio
+This is the portfolio site of mine
