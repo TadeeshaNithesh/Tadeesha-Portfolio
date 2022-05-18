@@ -7,7 +7,7 @@
 
 :root {
     --color-primary: #191d2b;
-    --color-secondary: #27AE60;
+    --color-secondary: #ae2727;
     --color-white: #FFFFFF;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -299,11 +299,11 @@ section {
                         width: 60%;
                     }
                     .html { width: 80%; }
-                    .css { width: 95%; }
-                    .js { width: 75%; }
+                    .css { width: 50%; }
+                    .js { width: 45%; }
                     .react{ width: 60%; }
-                    .node{ width: 87%; }
-                    .python{ width: 70%; }
+                    .node{ width: 76%; }
+                    .python{ width: 30%; }
                 }
             }
         }
